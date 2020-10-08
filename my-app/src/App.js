@@ -21,7 +21,7 @@ function App() {
     //   </header> 
     // </div>
     <p className="border" style = {{border: "1px solid",width: "50%", margin: "0 auto",}}>
-    <h1 className="judul">Hallo World! </h1>
+    <h1 className="judul">Form Pembelian Buah</h1>
     <form action="#">
     <label className="labelform" for="fname">Nama Pelanggan</label>
       <input type="text" id="fname" name="firstname" placeholder="Nama Pelanggan..."></input>
