@@ -170,6 +170,30 @@ input[type=submit]:hover {
   }
 }
 
+/* Style Tabel*/
+.TabelBuah{
+  margin:  auto;
+  border-collapse: collapse;
+  width: 50%;
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.buahth {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.rt-tr-group:nth-of-type(even){
+  background: red;
+}
+
+.tr1{
+  background-color: #4CAF50;
+}
 
 @keyframes App-logo-spin {
   from {
