@@ -195,6 +195,22 @@ input[type=submit]:hover {
   background-color: #4CAF50;
 }
 
+
+/* Style Jam*/
+.waktu{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+
+.jam {
+padding-left: 340px;
+} 
+
+.timer {
+  padding-right: 340px;
+} 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
