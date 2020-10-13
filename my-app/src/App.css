@@ -211,6 +211,23 @@ padding-left: 340px;
   padding-right: 340px;
 } 
 
+/* Style Form*/
+.formsubmit{
+  text-Align: left;
+  width:  50%;
+  margin-Left: 280px;
+}
+
+.labelbuah{
+  margin-Left: 85px;
+  margin-Bottom: 20px;
+}
+
+.hargabuah{
+  margin-Left: 112px;
+  margin-Bottom: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
